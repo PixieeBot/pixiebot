@@ -1,0 +1,15 @@
+{
+	"name": "Sofi Leaderboard",
+	"description": "It Display Sofi Leaderboard",
+	"repository": "https://github.com/",
+	"logo": "https://cdn.discordapp.com/avatars/1116958635273232384/2b64d2841d5cc1a1b9ee2fd5d639e585.png?size=1024",
+	"keywords": [
+		"node",
+		"paste",
+		"pastebin",
+		"haste",
+		"hastebin",
+		"code",
+		"syntax highlighting"
+	]
+}
